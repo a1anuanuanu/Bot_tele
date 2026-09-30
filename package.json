@@ -1,0 +1,12 @@
+{
+  "name": "bot-telegram-switchfy",
+  "version": "1.0.0",
+  "description": "Webhook Switchfy ke Telegram",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node api/webhook.js"
+  }
+}
